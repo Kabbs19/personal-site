@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "patch-package": "^8.0.1",
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }
